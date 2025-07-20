@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+#my-img{
+    height:200px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.heading{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#myName{
+    margin-left:50px;
+}
+.edu{
+    margin-left:50px;
+}
+.intro{
+    margin-left:50px;
+}
+.skills{
+    margin-left:50px;
+}
+.PandC{
+    margin-left:50px;
+}
+.other{
+    margin-left:50px;
+}
